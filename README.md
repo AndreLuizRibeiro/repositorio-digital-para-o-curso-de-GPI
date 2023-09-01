@@ -169,23 +169,23 @@ CRAWLEY, E. F.; JOHAN M.; SÖREN Ö.; DORIS R. B.; KRISTINA E. Rethinking Engine
 
 DABBISH, L., STUART, C., TSAY, J., AND HERBSLEB, J. Social coding in github: Transparency and collaboration in na open software repository. In Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work, CSCW ’12, ACM (New York, NY, USA, 2012), 1277–1286.
 
-ECK, N. J. V.; WALTMAN, L. (2022). Vosviewer. VOSviewer: Visualizing a cientific landscapes. Disponível em: https://www.vosviewer.com/ . Acesso em 14.jul.2023.
+ECK, N. J. V.; WALTMAN, L. (2022). Vosviewer. VOSviewer: Visualizing a cientific landscapes. Disponível em: https://www.vosviewer.com/ . Acesso em 10.ago.2023.
 
 GRIFFIN, T., AND SEALS, S. Github in the classroom: not just for group projects. J. Comput. Sci. Coll. 28, 4 (Apr. 2013), 74–74.
 
-GUTHALS, S. Github for Dummies. Plataforma GitHub para Leigos. 2023. Edition 2. ISBN 1394159161, 9781394159161, 9781394159178, 9781394159185. Disponível em: http://gen.lib.rus.ec/book/index.php?md5=D8C42A8D0BDAE4F86D1FD02E4E70ED22 Acesso em 21.jun.2023.
+GUTHALS, S. Github for Dummies. Plataforma GitHub para Leigos. 2023. Edition 2. ISBN 1394159161, 9781394159161, 9781394159178, 9781394159185. Disponível em: http://gen.lib.rus.ec/book/index.php?md5=D8C42A8D0BDAE4F86D1FD02E4E70ED22 Acesso em 17.ago.2023.
 
 JOHNSTON, LISA R. 2017. Curating Research Data, Volume One_Practical Strategies for Your Digital Repository-American Library Association (ALA) (2017). Series: Association of College and Research Libraries. Publisher: American Library. Association (ALA), Year: 2017. ISBN: 083898858X - 9780838988589
 
-MARGARET, Rouse. (2018). Millennials or Generation Y. Available in: http://whatis.techtarget.com/definition/millennials-millennial-generation Acesso 9.06.2023
-
+MARGARET, Rouse. (2018). Millennials or Generation Y. Available in: http://whatis.techtarget.com/definition/millennials-millennial-generation Acesso em 9.ago.2023
+ 
 MOURA, R. A.; MARQUES, D. J. R.; COSTA, J. C. L.; SILVA, M. B. A urbanidade da higiene ocupacional na era digital e o negacionismo social da antecipação e prevenção. 2021. Revista Sodebras [on-line]. vol. 16. n° 184, pp 29-33. maio/2021. ISSN 1809-3957. https://doi.org/10.29367/issn.1809-3957.16.2021.184.29
 
 MOURA, R.; RICHETTO, M.; LUCHE, D.; TOZI, L. AND SILVA, M. (2022). New Professional Competencies and Skills Leaning towards Industry 4.0. In Proceedings of the 14th International Conference on Computer Supported Education – Volume 2: CSEDU. ISBN: 978-989-758-562-3, pp. 622-630. ISSN 2184-5026. DOI: http://dx.doi.org/10.5220/0011047300003182
 
 NOPRIANTO, V. ; WIJAYANINGRUM, N.; LESTARI, V. A. Jupyter lab platform-based interactive learning. 2022. International Conference on Electrical and Information Technology (IEIT), Malang, Indonesia, 2022, pp. 295-301, DOI: 10.1109/IEIT56384.2022.9967857.
 
-PEDREIRA, K. Neurolinguística: como definir entre visual, auditivo ou cinestésico. 2014. Disponível em http://supervendedores.com.br/gerencia-de-vendas/lideranca-emotivacao-em-vendas/neurolinguistica-como-definir-entre-visual-auditivo-ou-cinestesico/. Acesso 05.mar.21.
+PEDREIRA, K. Neurolinguística: como definir entre visual, auditivo ou cinestésico. 2014. Disponível em http://supervendedores.com.br/gerencia-de-vendas/lideranca-emotivacao-em-vendas/neurolinguistica-como-definir-entre-visual-auditivo-ou-cinestesico/. Acesso 30.jul.21.
 
 RAHMAN, TAJMILUR & FREZZA, STEPHEN. (2021). A study on the impact of using industry standard tools and practice on software engineering courses project. DOI: 10.18260/1-2--36617.
 
