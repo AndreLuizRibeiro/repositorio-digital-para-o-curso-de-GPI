@@ -90,39 +90,30 @@ Arrumar de acordo com a estrutura do seu projeto
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crawley et al (2014) nos ensina que quando os indivíduos trabalham em pequenos grupos e são bem orientados, desenvolvem habilidades de negociação, liderança e compaixão (COSTA; MOURA, 2021). 
 </p> 
 
-<a name="figura-1"></a>
-<p align="center">Figura 1. Título da figura</p> 
- <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/TG/blob/main/imagem/alinhamento.png" width="100%"> 
- </p>
-<p align="justify">Fonte: Fonte da figura</p> 
-
 ## 1.1 Objetivo do Trabalho
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo deste trabalho é identificar um repositório digital e aplicá-lo como ferramenta de armazenamento e fonte de consulta para cursos de Gestão, conforme o planejamento para execução sistemática representadas no Fluxograma (Figura 1).<br>
  <a name="figura-1"></a>
-<p align="center">Figura 1. Título da figura</p> 
+<p align="center">Figura 1. Fluxograma representativo das etapas de trabalho</p> 
  <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/TG/blob/main/imagem/alinhamento.png" width="100%"> 
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/fluxograma%20de%20trabalho.png" width="100%"> 
  </p>
-<p align="justify">Fonte: Fonte da figura</p> 
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
 
-  - item 1;
-  - item 2;
-  - item 3;
-  - item 4. </p>
+   - Aplicar o a tecnologia digital Github com repositório no curso de Gestão;
+   - Armazenar, integrar e compartilhar aprendizados e projetos acadêmicos.
+
 
 ## 1.2 Conteúdo do Trabalho
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O presente trabalho está estruturado em cinco Capítulos:
-Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
--	Capítulo 1 
--	Capítulo 2 
--	Capítulo 3
--	Capítulo 4 
--	Capítulo 5 
+-	Capítulo 1 Introdução.
+-	Capítulo 2 Fundamentação Teórica.
+-	Capítulo 3 Desenvolvimento.
+-	Capítulo 4 Resultados e Discuções.
+-	Capítulo 5 Conciderações Finais.
 
-# 2 FUNDAMENTAÇÃO TEÓRICA OU TÉCNICA
+# 2 FUNDAMENTAÇÃO TEÓRICA
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Schawab (2016), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Rahman et al (2023), a aprendizagem baseada em projetos é uma forma ativa que facilita o envolvimento do aluno, o trabalho em equipe e a resolução de problemas, ou seja, é uma forma eficaz de aprender. A Educação deve incluir experiências de prática profissional para que os alunos sejam capazes de especificar, projetar, implementar, manter e avaliar, usando teorias, práticas e ferramentas tecnológicas de apoio como o Google Classroom, Google Meet, Github, Padlet e Trello  (SILVA et al., 2020). </p>
 
@@ -132,13 +123,18 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
  
 ## 2.2 Github 
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O git é um sistema de controle de versão que permite que os desenvolvedores rastreiem, gerenciem e colaborem em projetos mantendo um histórico completo de todas as alterações feitas ao longo do tempo. Já o github, como o nome sugere, é construído sobre o git, um tipo de sistema de controle de versão, gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo para desenvolver nele com tela inicial e comandos conforme Figura 2 (GUNTHALS, 2023). <br>
+ <a name="figura-1"></a>
+<p align="center">Figura 1. Fluxograma representativo das etapas de trabalho</p> 
+ <p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="100%"> 
+ </p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Zagalsky et al (2015) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 3 está demonstrado os principais comandos da tela principal. </p> 
 
 ## 2.3 Repositório compartilhado
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Wu et al (2014), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar (ZAGALSKY et al., 2015).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zagalsky et al (2015) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, encontrou-se que o tema ainda é pouco pesquisado (ECK; WALTMAN, 2022).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na ótica de Gunthals (2023), os dados estão se tornando a moeda do reino digital, ou seja, a abundância de dados de pesquisa digital e ciência da informação, criam um fluxo de informações provenientes da descoberta de pesquisas e da busca acadêmica com evidências (JOHNSTON, 2017).  </p> 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Você pode adicionar quantas imagens forem necessarias em qualquer seção.</p> 
 
 # 3 DESENVOLVIMENTO
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é apenas uma sugestão, podendo ser modificado pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica.</p> 
