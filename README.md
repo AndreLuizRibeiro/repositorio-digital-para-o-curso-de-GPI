@@ -2,7 +2,7 @@
 
 <p align="justify">Trabalho de Graduação apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Gestão da Produção Industrial.
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/imagem/download.jfif" >
+ <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/imagem/download.jfif" width="50%">
  </p>
 </p>
 
@@ -59,10 +59,10 @@ Arrumar de acordo com a estrutura do seu projeto
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)
 
-[2 FUNDAMENTAÇÃO TEÓRICA OU TÉCNICA](#2-fundamentação-teórica-ou-técnica)   
-   - [2.1 Título da seção](#21-título-da-seção)
-   - [2.2 Título da seção](#22-título-da-seção)
-   - [2.3 Título da seção](#23-título-da-seção)
+[2 FUNDAMENTAÇÃO TEÓRICA](#2-fundamentação-teórica)   
+   - [2.1 Linguagem markdown do github](#21-linguagem-markdown-do-github)
+   - [2.2 GitHub](#22-github)
+   - [2.3 Repositório compartilhado](#23-repositório-compartilhado)
     
 [3 DESENVOLVIMENTO](#3-desenvolvimento)
    - [3.1 Título da seção](#31-título-da-seção)  
@@ -81,7 +81,7 @@ Arrumar de acordo com a estrutura do seu projeto
 
 # 1 INTRODUÇÃO
 
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rohrbeck e Schwarz (2013) ensinam que quando ignoramos mudanças tecnológicas, há desperdício de oportunidades e aumento da taxa de insucesso. Nesse sentido, este projeto prevê a divulgação de um repositório digital como ferramenta de armazenamento e fonte de consulta para cursos de gestão, haja vista que, muitos projetos realizados ao longo do aprendizado discente são gravados ou são apresentações excelentes que perdem eficácia no tempo por não serem prontamente disponíveis para consulta ou pesquisas acadêmicas.<br>
+ <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rohrbeck e Schwarz (2013)](#anexos) ensinam que quando ignoramos mudanças tecnológicas, há desperdício de oportunidades e aumento da taxa de insucesso. Nesse sentido, este projeto prevê a divulgação de um repositório digital como ferramenta de armazenamento e fonte de consulta para cursos de gestão, haja vista que, muitos projetos realizados ao longo do aprendizado discente são gravados ou são apresentações excelentes que perdem eficácia no tempo por não serem prontamente disponíveis para consulta ou pesquisas acadêmicas.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse sentido, uma das premissas de um educador ou líder é o reconhecimento precoce do risco ou ameaça para prontamente traçar um plano estratégico com apoio tático e torná-lo operacional tecnologicamente no ciberespaço e no mundo real sem esquecer de usar de empatia para com os envolvidos (WALTHER et al., 2020; MOURA et al., 2021). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Requies et al (2018) argumentam que se aumenta a taxa de sucesso na solução prática dos projetos acadêmicos quando estes são elaborados por um grupo pequeno de alunos de áreas diversas e conhecimento multidisciplinar. O conhecimento gerado quando registrado em repositórios digitais, oferece mobilidade e acessibilidade imediata para pesquisas e novos projetos principalmente sendo facilmente acessados utilizando os chamados dispositivos “wearables” de fácil manuseio e capacidade de resposta em tempo real e em qualquer lugar (STEFANA et al., 2021). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Schwab (2016), o rápido processo de transição digital exerce impactos e requer uma revisão nos meios de educação para um rendimento máximo dos alunos. A tecnologia ainda não substitui a criatividade humana, mas os ajudam aprimorar e desenvolver competências técnicas e comportamentais (MOURA et al., 2022). <br>
@@ -95,7 +95,7 @@ Arrumar de acordo com a estrutura do seu projeto
  <a name="figura-1"></a>
 <p align="center">Figura 1. Fluxograma representativo das etapas de trabalho</p> 
  <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/fluxograma%20de%20trabalho.png" width="100%"> 
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/fluxograma%20de%20trabalho.png" width="50%"> 
  </p>
 <p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
@@ -106,7 +106,7 @@ Arrumar de acordo com a estrutura do seu projeto
 
 ## 1.2 Conteúdo do Trabalho
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O presente trabalho está estruturado em cinco Capítulos:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O presente trabalho está estruturado em cinco Capítulos:<br>
 -	Capítulo 1 Introdução.
 -	Capítulo 2 Fundamentação Teórica.
 -	Capítulo 3 Desenvolvimento.
@@ -123,13 +123,19 @@ Arrumar de acordo com a estrutura do seu projeto
  
 ## 2.2 Github 
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O git é um sistema de controle de versão que permite que os desenvolvedores rastreiem, gerenciem e colaborem em projetos mantendo um histórico completo de todas as alterações feitas ao longo do tempo. Já o github, como o nome sugere, é construído sobre o git, um tipo de sistema de controle de versão, gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo para desenvolver nele com tela inicial e comandos conforme Figura 2 (GUNTHALS, 2023). <br>
- <a name="figura-1"></a>
-<p align="center">Figura 1. Fluxograma representativo das etapas de trabalho</p> 
+ <a name="figura-2"></a>
+<p align="center">Figura 2. Tela inicial do repositorio e principais</p> 
  <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="100%"> 
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20inicial%20e%20principais%20funcionalidades.png" width="50%"> 
  </p>
 <p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Zagalsky et al (2015) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 3 está demonstrado os principais comandos da tela principal. </p> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Zagalsky et al (2015) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 1 está demonstrado os principais comandos da tela principal. </p> 
+ <a name="quadro-1"></a>
+<p align="center">Quadro 1. Principais comandos da tela principal do repositorio</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="50%"> 
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 
 ## 2.3 Repositório compartilhado
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Wu et al (2014), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar (ZAGALSKY et al., 2015).<br>
