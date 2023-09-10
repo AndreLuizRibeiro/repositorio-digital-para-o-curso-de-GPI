@@ -143,13 +143,70 @@ Arrumar de acordo com a estrutura do seu projeto
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na ótica de Gunthals (2023), os dados estão se tornando a moeda do reino digital, ou seja, a abundância de dados de pesquisa digital e ciência da informação, criam um fluxo de informações provenientes da descoberta de pesquisas e da busca acadêmica com evidências (JOHNSTON, 2017).  </p> 
 
 # 3 DESENVOLVIMENTO
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Neste capítulo deve ser abordado a metodologia e o enfoque experimental utilizados no trabalho. O título DESENVOLVIMENTO é apenas uma sugestão, podendo ser modificado pelo(s) autor(es) de acordo com o trabalho que está sendo desenvolvido, com uma abordagem tecnológica ou científica.</p> 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O desenvolvimento incluiu uma pesquisa bibliográfica e uma pesquisa de campo envolvendo 210 voluntários com docentes, estudantes e egressos alusiva à temática digital. Foi criado um modelo (template) para aplicação prática utilizando a plataforma freeware github para hospedagem, armazenagem, compartilhamento e gerenciamento integradas com outras ferramentas digitais para os indivíduos se apresentarem digitalmente.</p> 
 
-## 3.1 Título da seção
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+## 3.1 Pesquisa de campo 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O meio utilizado foi a plataforma googleforms disponível para o público em geral, na qual a pesquisa foi inserida e disseminada nas redes sociais para coleta de dados. Quatro perguntas fechadas, múltiplas escolhas e de opinião com o objetivo de abstrair a opinião de docentes, estudantes e egressos sobre uso dos repositórios digitais. Foram coletadas 210 respostas dos voluntários de ambos os sexos, com faixa etária a partir de 18 anos que estão em Instituições de Ensino ou tornaram-se egressos recentemente. A pesquisa foi realizada de 10/07/2023 e 14/08/2023 no formulário conforme ilustra a Figura 3. 
+</p> 
 
-## 3.2 Título da seção
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+## 3.2 Elaboração de um template para TG partindo dos Resultados da pesquisa 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elaboração passo a passo para a aplicação do github como template para um Trabalho de Graduação da área de Gestão d Produção Industrial.</p> 
+
+### 3.2.1 Criação do repositório 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1°. Acesse o site do GitHub (https://github.com/) e faça login na sua conta. Se você ainda não tiver uma conta, crie uma gratuitamente.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2°. Após fazer login, clique no botão "New" (Novo) no canto superior esquerdo da página inicial.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3°. Na página "Create a new repository" (Criar um novo repositório), preencha as informações básicas do seu projeto, escolha um nome para o repositório, é uma boa prática usar um nome descritivo relacionado ao seu trabalho de graduação, escreva uma breve descrição do projeto, destacando seus objetivos e propósito. Defina a visibilidade do repositório. Se você deseja que outras pessoas possam ver e contribuir para o projeto, escolha "Public" (Público). Caso contrário, escolha "Private" (Privado).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4°. Selecione as opções adicionais conforme necessário, para inicializar o repositório com um arquivo README.md (um arquivo de texto formatado em Markdown), marque a opção correspondente. É uma boa prática adicionar um README para fornecer informações básicas sobre o projeto.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5°. Clique em "Create repository" (Criar repositório) para criar o repositório.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;6°. Agora que o repositório foi criado, você pode fazer o upload dos arquivos relevantes para o seu trabalho de graduação, crie uma pasta com as imagens e tabelas do TG e uma pasta com os documentos do TG. Você pode arrastar e soltar os arquivos diretamente na página do repositório ou clicar no botão "Add file" (Adicionar arquivo) e selecionar arquivos em seu computador.<br>
+&nbsp;&nbsp;&nbsp;7°. Após adicionar os arquivos, é preciso fazer o commit das alterações no repositório, insira uma mensagem descritiva que resuma as alterações feitas. Por exemplo, "Adiciona arquivos iniciais do trabalho de graduação". Selecione a opção para criar um novo branch ou faça o commit diretamente na branch principal (geralmente chamada de "main" ou "master").<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8°. Clique em "Commit changes" (Confirmar alterações) para adicionar os arquivos ao repositório.
+</p>
+
+### 3.2.2 Adicionar colaboradores
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1°. Acesse o repositório no GitHub para o qual você deseja adicionar colaboradores.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2°. Na página inicial do repositório, clique na aba "Settings" (Configurações), localizada na parte superior direita da página.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3°. Na página de configurações do repositório, no menu lateral esquerdo, clique em "Manage access" (Gerenciar acesso).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4°. Na página "Manage access", clique no botão "Invite a collaborator" (Convidar um colaborador).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5°. Na caixa de texto que aparece, digite o nome de usuário ou endereço de e-mail do colaborador que deseja adicionar. À medida que você digita, o GitHub irá sugerir usuários existentes que correspondam à entrada.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6°. Selecione o nome de usuário ou endereço de e-mail do colaborador desejado nos resultados sugeridos.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7°. Escolha o nível de acesso para o colaborador. O GitHub oferece três opções: "Write" (Escrita): O colaborador terá permissão para fazer commits, criar branches e fazer push de alterações. "Maintain" (Manter): O colaborador terá acesso de escrita e também poderá gerenciar problemas (issues) e pull requests. "Admin" (Administrador): O colaborador terá acesso total ao repositório, incluindo a capacidade de excluir o repositório ou adicionar/remover colaboradores.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8°. Após selecionar o nível de acesso, clique no botão "Add [nome do colaborador]" para enviar o <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9°. O colaborador receberá um e-mail com um convite para colaborar no repositório. Eles precisarão aceitar o convite para se tornarem colaboradores.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10°. Assim que o convite for aceito, o colaborador poderá contribuir para o repositório, dependendo das permissões concedidas.
+</p> 
+
+### 3.2.3 Edição do readme.md 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1°. Clique no arquivo readme.md previamente criado, e clique no ícone do lápis para começar a edição.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2°. No início do arquivo, adicione o título “¨Trabalho de Graduação”<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3°. Adicione uma breve descrição do projeto abaixo do título, por exemplo: “Trabalho de Graduação apresentado à [nome da faculdade], como parte dos requisitos necessários para a obtenção do título de [nome do curso]”.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4°. Adicione o título do projeto abaixo da descrição.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5°. Adicione o nome dos autores e orientadores do trabalho abaixo do título.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6°. Adicione o título ‘resumo’, e em seguida descreva o resumo do trabalho, logo abaixo adicione as palavras chaves.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7°. Adicione o título ‘abstract’, e em seguida descreva o abstract do trabalho, logo abaixo adicione as keywords.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8°. Adicione o título ‘lista de figuras’, e em seguida liste as figuras do trabalho.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9°. Adicione o título ‘lista de tabelas’, e em seguida liste as tabelas do trabalho.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10°. Adicione o título ‘lista de quadros’, e em seguida liste os quadros do trabalho.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11°. Adicione o título ‘sumario’, e em seguida liste a estrutura do projeto, por exemplo:<br>
+“[1 INTRODUÇÃO](#1-introdução)<br>
+   - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)<br>
+   - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)<br>
+[2 FUNDAMENTAÇÃO TEÓRICA](#2-fundamentação-teórica)<br>
+   - [2.1 Linguagem markdown do github](#21-linguagem-markdown-do-github)<br>
+   - [2.2 GitHub](#22-github)<br>
+   - [2.3 Repositório compartilhado](#23-repositório-compartilhado)<br>  
+[3 DESENVOLVIMENTO](#3-desenvolvimento)<br>
+   - [3.1 Título da seção](#31-título-da-seção)<br> 
+   - [3.2 Título da seção](#32-título-da-seção)<br>   
+[4 RESULTADOS E DISCUSSÕES](#4-resultados-e-discussões)<br>
+   - [4.1 Título da seção](#41-título-da-seção)<br>
+   - [4.2 Título da seção](#42-título-da-seção)<br>
+[5 CONSIDERAÇÕES FINAIS](#5-considerações-finais)<br>
+[REFERÊNCIAS](#referências)<br>
+[ANEXOS](#anexos)”.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12°. Adicione os títulos de seção do trabalho, por exemplo: “‎# 1 INTRODUÇÃO”. Após a adição do título coloque o respectivo texto dessa seção e repita esse passo para todas as outras seções do projeto.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13°. Se houver a necessidade, adicione as imagens previamente adicionadas ao repositório, por exemplo:”![imagem 1](caminho/para/imagem1.png)”.
+</p>
 
 # 4 RESULTADOS E DISCUSSÕES
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalhoNesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
