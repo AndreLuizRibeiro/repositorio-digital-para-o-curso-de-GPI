@@ -13,7 +13,7 @@
 **Nome do aluno:** <h3>  *André Luiz Ribeiro Antunes* 
 </h3><br>
 
-**Orientador:** <h3>  *Roque Antonio de Moura* 
+**Orientador:** <h3>  *Rôque Antonio de Moura* 
 </h3><br>
 
 
