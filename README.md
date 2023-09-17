@@ -2,7 +2,7 @@
 
 <p align="justify">Trabalho de Graduação apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Gestão da Produção Industrial.
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/imagem/download.jfif" width="50%">
+ <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/logo%20fatec.png" width="100%">
  </p>
 </p>
 
@@ -10,7 +10,7 @@
 </h3>
 </p><br></br>
 
-**Nome do aluno:** <h3>  *André Luiz Ribeiro Antunes* 
+**Autor:** <h3>  *André Luiz Ribeiro Antunes* 
 </h3><br>
 
 **Orientador:** <h3>  *Rôque Antonio de Moura* 
@@ -40,17 +40,14 @@
  - [Figura 3](#figura-3)
  - [Figura 4](#figura-4)
  - [Figura 5](#figura-5)
-
-# LISTA DE TABELAS
- - [Tabela 1](#tabela-1)
- - [Tabela 2](#tabela-2)
- - [Tabela 3](#tabela-3)
- - [Tabela 4](#tabela-4)
+ - [Figura 6](#figura-6)
+ - [Figura 7](#figura-7)
+ - [Figura 8](#figura-8)
+ - [Figura 9](#figura-9)
 
 # LISTA DE QUADROS
  - [Quadro 1](#quadro-1)
- - [Quadro 2](#quadro-2)
- - [Quadro 3](#quadro-3)
+
    
 # SUMÁRIO
 Arrumar de acordo com a estrutura do seu projeto
@@ -65,8 +62,8 @@ Arrumar de acordo com a estrutura do seu projeto
    - [2.3 Repositório compartilhado](#23-repositório-compartilhado)
     
 [3 DESENVOLVIMENTO](#3-desenvolvimento)
-   - [3.1 Título da seção](#31-título-da-seção)  
-   - [3.2 Título da seção](#32-título-da-seção)
+   - [3.1 Pesquisa de Campo](#31-pesquisa-de-campo)  
+   - [3.2 Elaboração de um Template na Plataforma GitHub](#32-elaboração-de-um-template-na-plataforma-github)
      
 [4 RESULTADOS E DISCUSSÕES](#4-resultados-e-discussões)
    - [4.1 Título da seção](#41-título-da-seção)
@@ -85,9 +82,9 @@ Arrumar de acordo com a estrutura do seu projeto
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse sentido, uma das premissas de um educador ou líder é o reconhecimento precoce do risco ou ameaça para prontamente traçar um plano estratégico com apoio tático e torná-lo operacional tecnologicamente no ciberespaço e no mundo real sem esquecer de usar de empatia para com os envolvidos [(WALTHER et al., 2020; MOURA et al., 2021)](#anexos). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Requies et al (2018)](#anexos) argumentam que se aumenta a taxa de sucesso na solução prática dos projetos acadêmicos quando estes são elaborados por um grupo pequeno de alunos de áreas diversas e conhecimento multidisciplinar. O conhecimento gerado quando registrado em repositórios digitais, oferece mobilidade e acessibilidade imediata para pesquisas e novos projetos principalmente sendo facilmente acessados utilizando os chamados dispositivos “wearables” de fácil manuseio e capacidade de resposta em tempo real e em qualquer lugar [(STEFANA et al., 2021)](#anexo). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para [Schwab (2016)](#anexo), o rápido processo de transição digital exerce impactos e requer uma revisão nos meios de educação para um rendimento máximo dos alunos. A tecnologia ainda não substitui a criatividade humana, mas os ajudam aprimorar e desenvolver competências técnicas e comportamentais [(MOURA et al., 2022)](#anexos). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conforme [Rahman et al (2021)](#anexos), o avanço tecnológico juntamente com as expectativas de uma gestão digital, estão influenciando uma mudança notável na forma de produzir, contudo para a geração dos millennials, a competência digital é algo intuitivo, já para as anteriores chega a ser desafiadora (WROBEL-LACHOWSKA et al., 2017; MARGARET, 2018). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programas de computador adequadamente projetados podem significar a solução de problemas complexos por um grupo de alunos. Aparentemente, a sala de aula do futuro poderá contar com mais recursos eletrônicos (hardware e software) para docentes, que facilmente rastrearão notas, arquivos e hospedarão tarefas além do bate-papo em tempo real (ZAGALSKY et al., 2015). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Crawley et al (2014) nos ensina que quando os indivíduos trabalham em pequenos grupos e são bem orientados, desenvolvem habilidades de negociação, liderança e compaixão (COSTA; MOURA, 2021). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conforme [Rahman et al (2021)](#anexos), o avanço tecnológico juntamente com as expectativas de uma gestão digital, estão influenciando uma mudança notável na forma de produzir, contudo para a geração dos millennials, a competência digital é algo intuitivo, já para as anteriores chega a ser desafiadora [(WROBEL-LACHOWSKA et al., 2017; MARGARET, 2018)](#anexo). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programas de computador adequadamente projetados podem significar a solução de problemas complexos por um grupo de alunos. Aparentemente, a sala de aula do futuro poderá contar com mais recursos eletrônicos (hardware e software) para docentes, que facilmente rastrearão notas, arquivos e hospedarão tarefas além do bate-papo em tempo real [(ZAGALSKY et al., 2015)](#anexo). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Crawley et al (2014)](#anexo) nos ensina que quando os indivíduos trabalham em pequenos grupos e são bem orientados, desenvolvem habilidades de negociação, liderança e compaixão [(COSTA; MOURA, 2021)](#anexo). 
 </p> 
 
 ## 1.1 Objetivo do Trabalho
@@ -100,7 +97,7 @@ Arrumar de acordo com a estrutura do seu projeto
 <p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
 
-   - Aplicar o a tecnologia digital Github com repositório no curso de Gestão;
+   - Aplicar a tecnologia digital Github com repositório no curso de Gestão;
    - Armazenar, integrar e compartilhar aprendizados e projetos acadêmicos.
 
 
@@ -110,47 +107,54 @@ Arrumar de acordo com a estrutura do seu projeto
 -	Capítulo 1 Introdução.
 -	Capítulo 2 Fundamentação Teórica.
 -	Capítulo 3 Desenvolvimento.
--	Capítulo 4 Resultados e Discuções.
+-	Capítulo 4 Resultados e Discussões.
 -	Capítulo 5 Conciderações Finais.
 
 # 2 FUNDAMENTAÇÃO TEÓRICA
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Schawab (2016), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Rahman et al (2023), a aprendizagem baseada em projetos é uma forma ativa que facilita o envolvimento do aluno, o trabalho em equipe e a resolução de problemas, ou seja, é uma forma eficaz de aprender. A Educação deve incluir experiências de prática profissional para que os alunos sejam capazes de especificar, projetar, implementar, manter e avaliar, usando teorias, práticas e ferramentas tecnológicas de apoio como o Google Classroom, Google Meet, Github, Padlet e Trello  (SILVA et al., 2020). </p>
+<a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Schawab (2016)](#anexo), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Rahman et al (2023)](#anexo), a aprendizagem baseada em projetos é uma forma ativa que facilita o envolvimento do aluno, o trabalho em equipe e a resolução de problemas, ou seja, é uma forma eficaz de aprender. A Educação deve incluir experiências de prática profissional para que os alunos sejam capazes de especificar, projetar, implementar, manter e avaliar, usando teorias, práticas e ferramentas tecnológicas de apoio como o Google Classroom, Google Meet, Github, Padlet e Trello  [(SILVA et al., 2020)](#anexo). </p>
 
 ## 2.1 Linguagem markdown do github
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Dabbish et al (2012) o markdown não é uma funcionalidade específica do git em si, mas uma linguagem de marcação leve e fácil comumente usada para formatar textos em várias plataformas, incluindo o github. O markdown tem uma sintaxe simples que permite adicionar formatação simples ao texto, como cabeçalhos, listas, links, imagens e muito mais, sem a necessidade de escrever “html” ou usar uma interface de edição complexa (GRIFFIN; SEALS 2013). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Markdown é frequentemente usado para criar arquivos “README.md”, que fornece informações sobre o projeto, instruções de instalação, exemplos de uso e outras informações importantes que os colaboradores e usuários podem precisar. É exibido na página inicial do repositório e permite adicionar esses documentos recém-codificados ao markdown e gerar vários tipos de saídas (NOPRIANTO; WIJAYANINGRUM; LESTARI, 2022). </p> 
+<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para [Dabbish et al (2012)](#anexo) o markdown não é uma funcionalidade específica do git em si, mas uma linguagem de marcação leve e fácil comumente usada para formatar textos em várias plataformas, incluindo o github. O markdown tem uma sintaxe simples que permite adicionar formatação simples ao texto, como cabeçalhos, listas, links, imagens e muito mais, sem a necessidade de escrever “html” ou usar uma interface de edição complexa [(GRIFFIN; SEALS 2013)](#anexo). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Markdown é frequentemente usado para criar arquivos “README.md”, que fornece informações sobre o projeto, instruções de instalação, exemplos de uso e outras informações importantes que os colaboradores e usuários podem precisar. É exibido na página inicial do repositório e permite adicionar esses documentos recém-codificados ao markdown e gerar vários tipos de saídas [(NOPRIANTO; WIJAYANINGRUM; LESTARI, 2022)](#anexo). </p> 
  
 ## 2.2 Github 
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O git é um sistema de controle de versão que permite que os desenvolvedores rastreiem, gerenciem e colaborem em projetos mantendo um histórico completo de todas as alterações feitas ao longo do tempo. Já o github, como o nome sugere, é construído sobre o git, um tipo de sistema de controle de versão, gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo para desenvolver nele com tela inicial e comandos conforme Figura 2 (GUNTHALS, 2023). <br>
+ <a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O git é um sistema de controle de versão que permite que os desenvolvedores rastreiem, gerenciem e colaborem em projetos mantendo um histórico completo de todas as alterações feitas ao longo do tempo. Já o github, como o nome sugere, é construído sobre o git, um tipo de sistema de controle de versão, gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo para desenvolver nele com tela inicial e comandos conforme Figura 2 [(GUNTHALS, 2023)](#anexo).</p> <br>
  <a name="figura-2"></a>
 <p align="center">Figura 2. Tela inicial do repositorio e principais</p> 
  <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20inicial%20e%20principais%20funcionalidades.png" width="50%"> 
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20inicial%20e%20principais%20funcionalidades.png" width="70%"> 
  </p>
 <p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para Zagalsky et al (2015) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 1 está demonstrado os principais comandos da tela principal. </p> 
+
+<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para [Zagalsky et al (2015)](#anexo) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 1 está demonstrado os principais comandos da tela principal. </p> 
  <a name="quadro-1"></a>
 <p align="center">Quadro 1. Principais comandos da tela principal do repositorio</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="50%"> 
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Adaptado de Gunthals (2023).</p> <br>
 
 ## 2.3 Repositório compartilhado
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo Wu et al (2014), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar (ZAGALSKY et al., 2015).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zagalsky et al (2015) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, encontrou-se que o tema ainda é pouco pesquisado (ECK; WALTMAN, 2022).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na ótica de Gunthals (2023), os dados estão se tornando a moeda do reino digital, ou seja, a abundância de dados de pesquisa digital e ciência da informação, criam um fluxo de informações provenientes da descoberta de pesquisas e da busca acadêmica com evidências (JOHNSTON, 2017).  </p> 
+<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Wu et al (2014)](#anexo), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar [(ZAGALSKY et al., 2015)](#anexo).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zagalsky et al (2015)](#anexo) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, encontrou-se que o tema ainda é pouco pesquisado [(ECK; WALTMAN, 2022)](#anexo).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na ótica de [Gunthals (2023)](#anexo), os dados estão se tornando a moeda do reino digital, ou seja, a abundância de dados de pesquisa digital e ciência da informação, criam um fluxo de informações provenientes da descoberta de pesquisas e da busca acadêmica com evidências [(JOHNSTON, 2017)](#anexo).  </p> 
 
 # 3 DESENVOLVIMENTO
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O desenvolvimento incluiu uma pesquisa bibliográfica e uma pesquisa de campo envolvendo 210 voluntários com docentes, estudantes e egressos alusiva à temática digital. Foi criado um modelo (template) para aplicação prática utilizando a plataforma freeware github para hospedagem, armazenagem, compartilhamento e gerenciamento integradas com outras ferramentas digitais para os indivíduos se apresentarem digitalmente.</p> 
 
-## 3.1 Pesquisa de campo 
+## 3.1 Pesquisa de Campo 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O meio utilizado foi a plataforma googleforms disponível para o público em geral, na qual a pesquisa foi inserida e disseminada nas redes sociais para coleta de dados. Quatro perguntas fechadas, múltiplas escolhas e de opinião com o objetivo de abstrair a opinião de docentes, estudantes e egressos sobre uso dos repositórios digitais. Foram coletadas 210 respostas dos voluntários de ambos os sexos, com faixa etária a partir de 18 anos que estão em Instituições de Ensino ou tornaram-se egressos recentemente. A pesquisa foi realizada de 10/07/2023 e 27/08/2023 no formulário conforme ilustra a Figura 3. 
-</p> 
+</p>
+ <a name="figura-3"></a>
+<p align="center">Figura 3. Tela do Formulário de pesquisa</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/figura%203.png" width="50%"> 
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 
-## 3.2 Elaboração de um template para TG partindo dos Resultados da pesquisa 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elaboração passo a passo para a aplicação do github como template para um Trabalho de Graduação da área de Gestão d Produção Industrial.</p> 
+## 3.2 Elaboração de um Template na Plataforma GitHub
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elaboração do passo a passo para a aplicação do github como template para um Trabalho de Graduação da área de Gestão d Produção Industrial.</p> 
 
 ### 3.2.1 Criação do repositório 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1°. Acesse o site do GitHub (https://github.com/) e faça login na sua conta. Se você ainda não tiver uma conta, crie uma gratuitamente.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2°. Após fazer login, clique no botão "New" (Novo) no canto superior esquerdo da página inicial.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3°. Na página "Create a new repository" (Criar um novo repositório), preencha as informações básicas do seu projeto, escolha um nome para o repositório, é uma boa prática usar um nome descritivo relacionado ao seu trabalho de graduação, escreva uma breve descrição do projeto, destacando seus objetivos e propósito. Defina a visibilidade do repositório. Se você deseja que outras pessoas possam ver e contribuir para o projeto, escolha "Public" (Público). Caso contrário, escolha "Private" (Privado).<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4°. Selecione as opções adicionais conforme necessário, para inicializar o repositório com um arquivo README.md (um arquivo de texto formatado em Markdown), marque a opção correspondente. É uma boa prática adicionar um README para fornecer informações básicas sobre o projeto.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5°. Clique em "Create repository" (Criar repositório) para criar o repositório.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6°. Agora que o repositório foi criado, você pode fazer o upload dos arquivos relevantes para o seu trabalho de graduação, crie uma pasta com as imagens e tabelas do TG e uma pasta com os documentos do TG. Você pode arrastar e soltar os arquivos diretamente na página do repositório ou clicar no botão "Add file" (Adicionar arquivo) e selecionar arquivos em seu computador.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7°. Após adicionar os arquivos, é preciso fazer o commit das alterações no repositório, insira uma mensagem descritiva que resuma as alterações feitas. Por exemplo, "Adiciona arquivos iniciais do trabalho de graduação". Selecione a opção para criar um novo branch ou faça o commit diretamente na branch principal (geralmente chamada de "main" ou "master").<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8°. Clique em "Commit changes" (Confirmar alterações) para adicionar os arquivos ao repositório.
