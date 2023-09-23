@@ -189,11 +189,20 @@ Arrumar de acordo com a estrutura do seu projeto
 # 4 RESULTADOS E DISCUSSÕES
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalhoNesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
 
-## 4.1 Título da seção
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+## 4.1 Resultados da pesquisa de campo
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A primeira questão sobre a faixa etária demonstra que 97,2% dos respondentes têm faixa etária entre 18 e 60 anos, conforme demonstra o Figura 4. </p> 
+A segunda questão trata sobre atuação dos voluntários. 78,6% dos respondentes disseram ser estudantes, 15,7% são docentes e 5,7% são egressos/egressas conforme demonstra o Figura 5.
+A terceira questão tratou da amplitude e população de outras Instituições de ensino públicas e particulares na região conforme demonstra o Figura 6. 
+A quarta pergunta questionou se os respondentes conheciam ou usavam o repositório digital como o github. 84,7% dos respondentes disseram que nunca ouviram falar (49,5%) e (35,2%) nunca utilizaram, conforme demonstra o Figura 7.
 
-## 4.2 Título da seção
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Colocar o conteúdo dessa seção aqui.</p> 
+## 4.2 Criação de um Template para cursos de Gestão utilizando o github
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Figura 8 ilustra os comandos utilizados na criação do template para o repositório digital.
+https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20comando.png
+</p> 
+A Figura 9 ilustra a exibição do repositório digital após sua conclusão.
+Figura 9. Template exibição
+ https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20exibi%C3%A7%C3%A3o.png
+
 
 # 5 CONSIDERAÇÕES FINAIS
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta é a parte final do trabalho, referindo-se às hipóteses discutidas anteriormente. A conclusão é uma resposta para a problemática do tema proposto na introdução, com base nos resultados que o(s) autor(es) avaliou e interpretou.</p> 
