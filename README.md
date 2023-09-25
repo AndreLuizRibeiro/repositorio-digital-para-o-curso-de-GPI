@@ -50,8 +50,6 @@
 
    
 # SUMÁRIO
-Arrumar de acordo com a estrutura do seu projeto
-
 [1 INTRODUÇÃO](#1-introdução)
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)
@@ -66,9 +64,9 @@ Arrumar de acordo com a estrutura do seu projeto
    - [3.2 Elaboração de um Template na Plataforma GitHub](#32-elaboração-de-um-template-na-plataforma-github)
      
 [4 RESULTADOS E DISCUSSÕES](#4-resultados-e-discussões)
-   - [4.1 Título da seção](#41-título-da-seção)
-   - [4.2 Título da seção](#42-título-da-seção)
-   
+   - [4.1 Resultados da Pesquisa de Campo](#41-resultados-da-pesquisa-de-campo)
+   - [4.2 Criação de um Template para cursos de Gestão Utilizando o Github](#42-criação-de-um-template-para-cursos-de-gestão-utilizando-o-github) 
+
 [5 CONSIDERAÇÕES FINAIS](#5-considerações-finais)
 
 [REFERÊNCIAS](#referências)
@@ -79,12 +77,12 @@ Arrumar de acordo com a estrutura do seu projeto
 # 1 INTRODUÇÃO
 
  <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rohrbeck e Schwarz (2013)](#anexos) ensinam que quando ignoramos mudanças tecnológicas, há desperdício de oportunidades e aumento da taxa de insucesso. Nesse sentido, este projeto prevê a divulgação de um repositório digital como ferramenta de armazenamento e fonte de consulta para cursos de gestão, haja vista que, muitos projetos realizados ao longo do aprendizado discente são gravados ou são apresentações excelentes que perdem eficácia no tempo por não serem prontamente disponíveis para consulta ou pesquisas acadêmicas.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse sentido, uma das premissas de um educador ou líder é o reconhecimento precoce do risco ou ameaça para prontamente traçar um plano estratégico com apoio tático e torná-lo operacional tecnologicamente no ciberespaço e no mundo real sem esquecer de usar de empatia para com os envolvidos [(WALTHER et al., 2020; MOURA et al., 2021)](#anexos). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Requies et al (2018)](#anexos) argumentam que se aumenta a taxa de sucesso na solução prática dos projetos acadêmicos quando estes são elaborados por um grupo pequeno de alunos de áreas diversas e conhecimento multidisciplinar. O conhecimento gerado quando registrado em repositórios digitais, oferece mobilidade e acessibilidade imediata para pesquisas e novos projetos principalmente sendo facilmente acessados utilizando os chamados dispositivos “wearables” de fácil manuseio e capacidade de resposta em tempo real e em qualquer lugar [(STEFANA et al., 2021)](#anexo). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse sentido, uma das premissas de um educador ou líder é o reconhecimento precoce do risco ou ameaça para prontamente traçar um plano estratégico com apoio tático e torná-lo operacional tecnologicamente no ciberespaço e no mundo real sem esquecer de usar de empatia para com os envolvidos [(WALTHER et al., 2020; MOURA *et al*, 2021)](#anexos). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Requies *et al (2018)](#anexos) argumentam que se aumenta a taxa de sucesso na solução prática dos projetos acadêmicos quando estes são elaborados por um grupo pequeno de alunos de áreas diversas e conhecimento multidisciplinar. O conhecimento gerado quando registrado em repositórios digitais, oferece mobilidade e acessibilidade imediata para pesquisas e novos projetos principalmente sendo facilmente acessados utilizando os chamados dispositivos “wearables” de fácil manuseio e capacidade de resposta em tempo real e em qualquer lugar [(STEFANA *et al*, 2021)](#anexo). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para [Schwab (2016)](#anexo), o rápido processo de transição digital exerce impactos e requer uma revisão nos meios de educação para um rendimento máximo dos alunos. A tecnologia ainda não substitui a criatividade humana, mas os ajudam aprimorar e desenvolver competências técnicas e comportamentais [(MOURA et al., 2022)](#anexos). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conforme [Rahman et al (2021)](#anexos), o avanço tecnológico juntamente com as expectativas de uma gestão digital, estão influenciando uma mudança notável na forma de produzir, contudo para a geração dos millennials, a competência digital é algo intuitivo, já para as anteriores chega a ser desafiadora [(WROBEL-LACHOWSKA et al., 2017; MARGARET, 2018)](#anexo). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programas de computador adequadamente projetados podem significar a solução de problemas complexos por um grupo de alunos. Aparentemente, a sala de aula do futuro poderá contar com mais recursos eletrônicos (hardware e software) para docentes, que facilmente rastrearão notas, arquivos e hospedarão tarefas além do bate-papo em tempo real [(ZAGALSKY et al., 2015)](#anexo). <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Crawley et al (2014)](#anexo) nos ensina que quando os indivíduos trabalham em pequenos grupos e são bem orientados, desenvolvem habilidades de negociação, liderança e compaixão [(COSTA; MOURA, 2021)](#anexo). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conforme [Rahman *et al* (2021)](#anexos), o avanço tecnológico juntamente com as expectativas de uma gestão digital, estão influenciando uma mudança notável na forma de produzir, contudo para a geração dos millennials, a competência digital é algo intuitivo, já para as anteriores chega a ser desafiadora [(WROBEL-LACHOWSKA *et al*, 2017; MARGARET, 2018)](#anexo). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programas de computador adequadamente projetados podem significar a solução de problemas complexos por um grupo de alunos. Aparentemente, a sala de aula do futuro poderá contar com mais recursos eletrônicos (hardware e software) para docentes, que facilmente rastrearão notas, arquivos e hospedarão tarefas além do bate-papo em tempo real [(ZAGALSKY *et al*, 2015)](#anexo). <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Crawley *et al* (2014)](#anexo) nos ensina que quando os indivíduos trabalham em pequenos grupos e são bem orientados, desenvolvem habilidades de negociação, liderança e compaixão [(COSTA; MOURA, 2021)](#anexo). 
 </p> 
 
 ## 1.1 Objetivo do Trabalho
@@ -112,7 +110,7 @@ Arrumar de acordo com a estrutura do seu projeto
 
 # 2 FUNDAMENTAÇÃO TEÓRICA
 <a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Schawab (2016)](#anexo), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Rahman et al (2023)](#anexo), a aprendizagem baseada em projetos é uma forma ativa que facilita o envolvimento do aluno, o trabalho em equipe e a resolução de problemas, ou seja, é uma forma eficaz de aprender. A Educação deve incluir experiências de prática profissional para que os alunos sejam capazes de especificar, projetar, implementar, manter e avaliar, usando teorias, práticas e ferramentas tecnológicas de apoio como o Google Classroom, Google Meet, Github, Padlet e Trello  [(SILVA et al., 2020)](#anexo). </p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Rahman *et al* (2023)](#anexo), a aprendizagem baseada em projetos é uma forma ativa que facilita o envolvimento do aluno, o trabalho em equipe e a resolução de problemas, ou seja, é uma forma eficaz de aprender. A Educação deve incluir experiências de prática profissional para que os alunos sejam capazes de especificar, projetar, implementar, manter e avaliar, usando teorias, práticas e ferramentas tecnológicas de apoio como o Google Classroom, Google Meet, Github, Padlet e Trello  [(SILVA *et al*, 2020)](#anexo). </p>
 
 ## 2.1 Linguagem markdown do github
 <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para [Dabbish et al (2012)](#anexo) o markdown não é uma funcionalidade específica do git em si, mas uma linguagem de marcação leve e fácil comumente usada para formatar textos em várias plataformas, incluindo o github. O markdown tem uma sintaxe simples que permite adicionar formatação simples ao texto, como cabeçalhos, listas, links, imagens e muito mais, sem a necessidade de escrever “html” ou usar uma interface de edição complexa [(GRIFFIN; SEALS 2013)](#anexo). <br>
@@ -127,7 +125,7 @@ Arrumar de acordo com a estrutura do seu projeto
  </p>
 <p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br> 
 
-<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para [Zagalsky et al (2015)](#anexo) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 1 está demonstrado os principais comandos da tela principal. </p> 
+<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para [Zagalsky *et al* (2015)](#anexo) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 1 está demonstrado os principais comandos da tela principal. </p> 
  <a name="quadro-1"></a>
 <p align="center">Quadro 1. Principais comandos da tela principal do repositorio</p> 
 <p align="center">
@@ -136,8 +134,8 @@ Arrumar de acordo com a estrutura do seu projeto
 <p align="justify">Fonte: Adaptado de Gunthals (2023).</p> <br>
 
 ## 2.3 Repositório compartilhado
-<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Wu et al (2014)](#anexo), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar [(ZAGALSKY et al., 2015)](#anexo).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zagalsky et al (2015)](#anexo) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, encontrou-se que o tema ainda é pouco pesquisado [(ECK; WALTMAN, 2022)](#anexo).<br>
+<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Wu *et al* (2014)](#anexo), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar [(ZAGALSKY *et al*, 2015)](#anexo).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zagalsky *et al* (2015)](#anexo) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, encontrou-se que o tema ainda é pouco pesquisado [(ECK; WALTMAN, 2022)](#anexo).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na ótica de [Gunthals (2023)](#anexo), os dados estão se tornando a moeda do reino digital, ou seja, a abundância de dados de pesquisa digital e ciência da informação, criam um fluxo de informações provenientes da descoberta de pesquisas e da busca acadêmica com evidências [(JOHNSTON, 2017)](#anexo).  </p> 
 
 # 3 DESENVOLVIMENTO
@@ -165,7 +163,7 @@ Arrumar de acordo com a estrutura do seu projeto
 </p> 
 
 ### 3.2.3 Edição do readme.md 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1°. Clique no arquivo readme.md previamente criado, e clique no ícone do lápis para começar a edição.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2°. No início do arquivo, adicione o título “¨Trabalho de Graduação”<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3°. Adicione uma breve descrição do projeto abaixo do título, por exemplo: “Trabalho de Graduação apresentado à [nome da faculdade], como parte dos requisitos necessários para a obtenção do título de [nome do curso]”.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4°. Adicione o título do projeto abaixo da descrição.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5°. Adicione o nome dos autores e orientadores do trabalho abaixo do título.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6°. Adicione o título ‘resumo’, e em seguida descreva o resumo do trabalho, logo abaixo adicione as palavras chaves.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7°. Adicione o título ‘abstract’, e em seguida descreva o abstract do trabalho, logo abaixo adicione as keywords.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8°. Adicione o título ‘lista de figuras’, e em seguida liste as figuras do trabalho.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9°. Adicione o título ‘lista de tabelas’, e em seguida liste as tabelas do trabalho.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10°. Adicione o título ‘lista de quadros’, e em seguida liste os quadros do trabalho.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11°. Adicione o título ‘sumario’, e em seguida liste a estrutura do projeto, por exemplo:<br>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1°. Clique no arquivo readme.md previamente criado, e clique no ícone do lápis para começar a edição.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2°. No início do arquivo, adicione o título “Trabalho de Graduação”<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3°. Adicione uma breve descrição do projeto abaixo do título, por exemplo: “Trabalho de Graduação apresentado à [nome da faculdade], como parte dos requisitos necessários para a obtenção do título de [nome do curso]”.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4°. Adicione o título do projeto abaixo da descrição.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5°. Adicione o nome dos autores e orientadores do trabalho abaixo do título.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6°. Adicione o título ‘resumo’, e em seguida descreva o resumo do trabalho, logo abaixo adicione as palavras chaves.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7°. Adicione o título ‘abstract’, e em seguida descreva o abstract do trabalho, logo abaixo adicione as keywords.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8°. Adicione o título ‘lista de figuras’, e em seguida liste as figuras do trabalho.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9°. Adicione o título ‘lista de tabelas’, e em seguida liste as tabelas do trabalho.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10°. Adicione o título ‘lista de quadros’, e em seguida liste os quadros do trabalho.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11°. Adicione o título ‘sumario’, e em seguida liste a estrutura do projeto, por exemplo:<br>
 “[1 INTRODUÇÃO](#1-introdução)<br>
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)<br>
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)<br>
@@ -189,20 +187,53 @@ Arrumar de acordo com a estrutura do seu projeto
 # 4 RESULTADOS E DISCUSSÕES
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalhoNesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
 
-## 4.1 Resultados da pesquisa de campo
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A primeira questão sobre a faixa etária demonstra que 97,2% dos respondentes têm faixa etária entre 18 e 60 anos, conforme demonstra o Figura 4. </p> 
-A segunda questão trata sobre atuação dos voluntários. 78,6% dos respondentes disseram ser estudantes, 15,7% são docentes e 5,7% são egressos/egressas conforme demonstra o Figura 5.
-A terceira questão tratou da amplitude e população de outras Instituições de ensino públicas e particulares na região conforme demonstra o Figura 6. 
-A quarta pergunta questionou se os respondentes conheciam ou usavam o repositório digital como o github. 84,7% dos respondentes disseram que nunca ouviram falar (49,5%) e (35,2%) nunca utilizaram, conforme demonstra o Figura 7.
+## 4.1 Resultados da Pesquisa de Campo
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A primeira questão sobre a faixa etária demonstra que 97,2% dos respondentes têm faixa etária entre 18 e 60 anos, conforme demonstra o Figura 4. </p>
+<a name="figura-4"></a>
+<p align="center">Figura 4. Faixa etária dos respondentes</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/idade.png" width="70%"> 
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 
-## 4.2 Criação de um Template para cursos de Gestão utilizando o github
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Figura 8 ilustra os comandos utilizados na criação do template para o repositório digital.
-https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20comando.png
-</p> 
-A Figura 9 ilustra a exibição do repositório digital após sua conclusão.
-Figura 9. Template exibição
- https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20exibi%C3%A7%C3%A3o.png
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A segunda questão trata sobre atuação dos voluntários. 78,6% dos respondentes disseram ser estudantes, 15,7% são docentes e 5,7% são egressos/egressas conforme demonstra o Figura 5.</p>
+<a name="figura-5"></a>
+<p align="center">Figura 5. Tipo de atuação dos voluntários</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/funcao.png" width="70%">
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A terceira questão tratou da amplitude e população de outras Instituições de ensino públicas e particulares na região conforme demonstra o Figura 6. </p>
+<a name="figura-6"></a>
+<p align="center">Figura 6. Atual ou última Instituição de Ensino</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/faculdade.png" width="70%"> 
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quarta pergunta questionou se os respondentes conheciam ou usavam o repositório digital como o github. 84,7% dos respondentes disseram que nunca ouviram falar (49,5%) e (35,2%) nunca utilizaram, conforme demonstra o Figura 7.</p>
+<a name="figura-7"></a>
+<p align="center">Figura 7. Usou algum repositório digital como o github</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/usou.png" width="70%"></p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+
+## 4.2 Criação de um Template para Cursos de Gestão Utilizando o Github
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Figura 8 ilustra os comandos utilizados na criação do template para o repositório digital.</p> 
+<a name="figura-8"></a>
+<p align="center">Figura 8. Comandos Utilizados</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20comando.png" width="70%"> 
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Figura 9 ilustra a exibição do repositório digital após sua conclusão.</p>
+ <a name="figura-9"></a>
+<p align="center">Figura 9. Template exibição</p> 
+<p align="center">
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20exibi%C3%A7%C3%A3o.png" width="70%"> 
+</p>
+<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
 
 # 5 CONSIDERAÇÕES FINAIS
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta é a parte final do trabalho, referindo-se às hipóteses discutidas anteriormente. A conclusão é uma resposta para a problemática do tema proposto na introdução, com base nos resultados que o(s) autor(es) avaliou e interpretou.</p> 
