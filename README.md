@@ -76,7 +76,7 @@
 
 # 1 INTRODUÇÃO
 
- <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rohrbeck e Schwarz (2013)](#anexos) ensinam que quando ignoramos mudanças tecnológicas, há desperdício de oportunidades e aumento da taxa de insucesso. Nesse sentido, este projeto prevê a divulgação de um repositório digital como ferramenta de armazenamento e fonte de consulta para cursos de gestão, haja vista que, muitos projetos realizados ao longo do aprendizado discente são gravados ou são apresentações excelentes que perdem eficácia no tempo por não serem prontamente disponíveis para consulta ou pesquisas acadêmicas.<br>
+ <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Rohrbeck e Schwarz (2013)](#anexos) ensinam que quando ignoramos mudanças tecnológicas, há desperdício de oportunidades e aumento da taxa de insucesso. Nesse sentido, este trabalho prevê a divulgação de um repositório digital como ferramenta de armazenamento e fonte de consulta para cursos de gestão, haja vista que, muitos projetos realizados ao longo do aprendizado discente são gravados ou são apresentações excelentes que perdem eficácia no tempo por não serem prontamente disponíveis para consulta ou pesquisas acadêmicas.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse sentido, uma das premissas de um educador ou líder é o reconhecimento precoce do risco ou ameaça para prontamente traçar um plano estratégico com apoio tático e torná-lo operacional tecnologicamente no ciberespaço e no mundo real sem esquecer de usar de empatia para com os envolvidos [(WALTHER et al., 2020; MOURA *et al*, 2021)](#anexos). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Requies *et al* (2018)](#anexos) argumentam que se aumenta a taxa de sucesso na solução prática dos projetos acadêmicos quando estes são elaborados por um grupo pequeno de alunos de áreas diversas e conhecimento multidisciplinar. O conhecimento gerado quando registrado em repositórios digitais, oferece mobilidade e acessibilidade imediata para pesquisas e novos projetos principalmente sendo facilmente acessados utilizando os chamados dispositivos “wearables” de fácil manuseio e capacidade de resposta em tempo real e em qualquer lugar [(STEFANA *et al*, 2021)](#anexo). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para [Schwab (2016)](#anexo), o rápido processo de transição digital exerce impactos e requer uma revisão nos meios de educação para um rendimento máximo dos alunos. A tecnologia ainda não substitui a criatividade humana, mas os ajudam aprimorar e desenvolver competências técnicas e comportamentais [(MOURA *et al*, 2022)](#anexos). <br>
@@ -92,7 +92,8 @@
  <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/fluxograma%20de%20trabalho.png" width="50%"> 
  </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p>
+colocar  na introdução<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
 
    - Aplicar a tecnologia digital Github com repositório no curso de Gestão;
@@ -109,7 +110,7 @@
 -	Capítulo 5 Conciderações Finais.
 
 # 2 FUNDAMENTAÇÃO TEÓRICA
-<a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Schawab (2016)](#anexo), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
+<a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Schawab (2016)](#anexo), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés, os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Rahman *et al* (2023)](#anexo), a aprendizagem baseada em projetos é uma forma ativa que facilita o envolvimento do aluno, o trabalho em equipe e a resolução de problemas, ou seja, é uma forma eficaz de aprender. A Educação deve incluir experiências de prática profissional para que os alunos sejam capazes de especificar, projetar, implementar, manter e avaliar, usando teorias, práticas e ferramentas tecnológicas de apoio como o Google Classroom, Google Meet, Github, Padlet e Trello  [(SILVA *et al*, 2020)](#anexo). </p>
 
 ## 2.1 Linguagem markdown do github
@@ -121,21 +122,21 @@
  <a name="figura-2"></a>
 <p align="center">Figura 2. Tela inicial do repositorio e principais</p> 
  <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20inicial%20e%20principais%20funcionalidades.png" width="70%"> 
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20inicial%20e%20principais%20funcionalidades.png" width="80%"> 
  </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br> 
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br> 
 
-<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para [Zagalsky *et al* (2015)](#anexo) atualmente o github é uma ferramenta tecnológica útil com plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Seus benefícios facilitam a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. No Quadro 1 está demonstrado os principais comandos da tela principal. </p> 
+<a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para [Zagalsky *et al* (2015)](#anexo) atualmente o github é uma ferramenta tecnológica útil como plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Isso facilita a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. O Quadro 1 está ilustrando os principais comandos da tela principal. </p> 
  <a name="quadro-1"></a>
 <p align="center">Quadro 1. Principais comandos da tela principal do repositorio</p> 
 <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="50%"> 
+<img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="70%"> 
 </p>
 <p align="justify">Fonte: Adaptado de Gunthals (2023).</p> <br>
 
 ## 2.3 Repositório compartilhado
 <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Wu *et al* (2014)](#anexo), o github oferece um repositório rastreável de projetos, fornecendo recursos adicionais dos quais educadores e alunos podem se beneficiar [(ZAGALSKY *et al*, 2015)](#anexo).<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zagalsky *et al* (2015)](#anexo) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, encontrou-se que o tema ainda é pouco pesquisado [(ECK; WALTMAN, 2022)](#anexo).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Zagalsky *et al* (2015)](#anexo) ensinam que no github quando um usuário deseja contribuir com o projeto de outra pessoa, ele pode clonar ou bifurcar o projeto para criar uma cópia completa pois há disponibilidade de licenças acadêmicas gratuitas. Em uma pesquisa bibliográfica usando as palavras chaves github, estudantes, educação, ensino-aprendizado, verificou-se que o tema ainda é pouco pesquisado [(ECK; WALTMAN, 2022)](#anexo).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na ótica de [Gunthals (2023)](#anexo), os dados estão se tornando a moeda do reino digital, ou seja, a abundância de dados de pesquisa digital e ciência da informação, criam um fluxo de informações provenientes da descoberta de pesquisas e da busca acadêmica com evidências [(JOHNSTON, 2017)](#anexo).  </p> 
 
 # 3 DESENVOLVIMENTO
@@ -149,7 +150,7 @@
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/figura%203.png" width="50%"> 
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 ## 3.2 Elaboração de um Template na Plataforma GitHub
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Elaboração do passo a passo para a aplicação do github como template para um Trabalho de Graduação da área de Gestão d Produção Industrial.</p> 
@@ -194,7 +195,7 @@
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/idade.png" width="70%"> 
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A segunda questão trata sobre atuação dos voluntários. 78,6% dos respondentes disseram ser estudantes, 15,7% são docentes e 5,7% são egressos/egressas conforme demonstra o Figura 5.</p>
 <a name="figura-5"></a>
@@ -202,7 +203,7 @@
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/funcao.png" width="70%">
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A terceira questão tratou da amplitude e população de outras Instituições de ensino públicas e particulares na região conforme demonstra o Figura 6. </p>
 <a name="figura-6"></a>
@@ -210,14 +211,14 @@
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/faculdade.png" width="70%"> 
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quarta pergunta questionou se os respondentes conheciam ou usavam o repositório digital como o github. 84,7% dos respondentes disseram que nunca ouviram falar (49,5%) e (35,2%) nunca utilizaram, conforme demonstra o Figura 7.</p>
 <a name="figura-7"></a>
 <p align="center">Figura 7. Usou algum repositório digital como o github</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/usou.png" width="70%"></p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 ## 4.2 Criação de um Template para Cursos de Gestão Utilizando o Github
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Figura 8 ilustra os comandos utilizados na criação do template para o repositório digital.</p> 
@@ -226,14 +227,14 @@
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20comando.png" width="70%"> 
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Figura 9 ilustra a exibição do repositório digital após sua conclusão.</p>
  <a name="figura-9"></a>
 <p align="center">Figura 9. Template exibição</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20exibi%C3%A7%C3%A3o.png" width="70%"> 
 </p>
-<p align="justify">Fonte: Elaborado pelos Autores (2023).</p> <br>
+<p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 # 5 CONSIDERAÇÕES FINAIS
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta é a parte final do trabalho, referindo-se às hipóteses discutidas anteriormente. A conclusão é uma resposta para a problemática do tema proposto na introdução, com base nos resultados que o(s) autor(es) avaliou e interpretou.</p> 
