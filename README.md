@@ -24,15 +24,15 @@
 
 # RESUMO
 
-<p align="justify">Apresentação concisa dos pontos relevantes do documento deve ser exposta no resumo. No presente caso o resumo será informativo, assim deverá ressaltar o objetivo, a metodologia, os resultados e as conclusões do documento. A ordem desses itens depende do tratamento que cada item recebe no documento original. O resumo deve ser composto por uma sequência de frases concisas, afirmativas e não em enumeração de tópicos.  A primeira frase deve ser significativa, explicando o tema principal do documento. Deve-se usar o verbo na voz ativa e na terceira pessoa do singular. Quanto a sua extensão, o resumo deve possuir de 150 a 500 palavras.</p>
+<p align="justify">Estamos vivendo na era digital, onde fábricas e suas máquinas equipadas com inteligência artificial tornam-se inteligentes com ampla interação humano-máquina. No entanto, a forma como os indivíduos se apresentam permanece analógica, ou seja, dependem de currículos e apresentações gravadas ou em papel, principalmente quando não são graduados em informática e comunicação. Nesse sentido, o objetivo deste trabalho é promover a aplicação de um repositório digital como ferramenta de armazenamento e fonte de referência para cursos de gestão no eixo tecnológico da produção industrial, ou seja, para leigos em programação. A metodologia incluiu pesquisa bibliográfica e de campo com 210 voluntários buscando-se construir e gerar conhecimento. Em seguida, foi criado um modelo utilizando uma plataforma de hospedagem, compartilhamento e gerenciamento conhecido como o github. Os resultados apontam para um template digital como produto, uso de tecnologias específicas de suporte e uma mentalidade ágil, ou seja, errar rápido para consertar mais rápido. Conclui-se que em repositórios atualizados, novos gestores e outros leigos podem se apresentar digitalmente além de registrar seus projetos e eventos em um ciberespaço com acessibilidade e mobilidade em qualquer lugar e em tempo real.</p>
 
-**Palavras-Chave:** Com um mínimo de 3 e no máximo 6 palavras, separadas entre si por ponto e vírgula “;” e finalizadas por ponto. As palavras-chave são palavras representativas do conteúdo do documento.
+**Palavras-Chave:** Educação tecnológica; Gestão; Github; Repositório digital; Tecnologias.
 
 # ABSTRACT
 
-<p align="justify">O abstract é o resumo da obra em língua estrangeira, que basicamente segue o mesmo conceito e as mesmas regras que o texto em português. Recomenda-se que para o texto do abstract o autor traduza a versão do resumo em português e faça, se necessário, os ajustes referentes à conversão dos idiomas. É importante observar que o título e texto NÃO DEVEM estar em itálico.</p>
+<p align="justify">We are living in the digital age, where factories and their machines equipped with artificial intelligence become intelligent with extensive human-machine interaction. However, the way individuals present themselves remains analogical, that is, they depend on curricula and presentations recorded or on paper, especially when they are not graduates in information technology and communication. In this sense, the objective of this work is to promote the application of a digital repository as a storage tool and a reference source for management courses in the technological axis of industrial production, that is, for laypersons in programming. The methodology included bibliographic and field research with 210 volunteers seeking to build and generate knowledge. Then, a model was created using a hosting, sharing and management platform known as github. The results point to a digital template as a product, use of specific support technologies and an agile mentality, that is, making mistakes quickly to fix them faster. It is concluded that in updated repositories, new managers and other lay people can present themselves digitally, in addition to registering their projects and events in a cyberspace with accessibility and mobility anywhere and in real time.</p>
 
-**Keywords:** Recomenda-se que o autor traduza para o inglês as Palavras-Chave em português e faça, se necessário, os ajustes referentes à conversão dos idiomas.
+**Keywords:** Technological education; Management; Github; Digital repository; Technologies.
 
 # LISTA DE FIGURAS
  - [Figura 1](#figura-1)
@@ -84,21 +84,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programas de computador adequadamente projetados podem significar a solução de problemas complexos por um grupo de alunos. Aparentemente, a sala de aula do futuro poderá contar com mais recursos eletrônicos (hardware e software) para docentes, que facilmente rastrearão notas, arquivos e hospedarão tarefas além do bate-papo em tempo real [(ZAGALSKY *et al*, 2015)](#anexo). <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Crawley *et al* (2014)](#anexo) nos ensina que quando os indivíduos trabalham em pequenos grupos e são bem orientados, desenvolvem habilidades de negociação, liderança e compaixão [(COSTA; MOURA, 2021)](#anexo). 
 </p> 
-
-## 1.1 Objetivo do Trabalho
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo deste trabalho é identificar um repositório digital e aplicá-lo como ferramenta de armazenamento e fonte de consulta para cursos de Gestão, conforme o planejamento para execução sistemática representadas no Fluxograma (Figura 1).<br>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conforme a Figura 1, podemos visualizar o planejamento para execução do trabalho.</p> 
  <a name="figura-1"></a>
-<p align="center">Figura 1. Fluxograma representativo das etapas de trabalho</p> 
+<p align="center">Figura 1. Fluxograma representativo das etapas de trabalho.</p> 
  <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/fluxograma%20de%20trabalho.png" width="50%"> 
  </p>
 <p align="justify">Fonte: Elaborado pelo Autor (2023).</p>
-colocar  na introdução<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
 
+## 1.1 Objetivo do Trabalho
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo deste trabalho é identificar um repositório digital e aplicá-lo como ferramenta de armazenamento e fonte de consulta para cursos de Gestão.</p>
+
+<p align-"justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Como objetivos específicos elenca-se:
+ 
    - Aplicar a tecnologia digital Github com repositório no curso de Gestão;
    - Armazenar, integrar e compartilhar aprendizados e projetos acadêmicos.
-
+</p>
 
 ## 1.2 Conteúdo do Trabalho
 
@@ -107,7 +108,7 @@ colocar  na introdução<br>
 -	Capítulo 2 Fundamentação Teórica.
 -	Capítulo 3 Desenvolvimento.
 -	Capítulo 4 Resultados e Discussões.
--	Capítulo 5 Conciderações Finais.
+-	Capítulo 5 Considerações Finais.
 
 # 2 FUNDAMENTAÇÃO TEÓRICA
 <a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Segundo [Schawab (2016)](#anexo), quando o ritmo da mudança dentro da empresa for ultrapassado pelo ritmo da mudança fora dela, o fim está próximo. Nesse viés, os bancos escolares com projetos e pesquisas acadêmicas são essenciais para o sucesso. <br>
@@ -120,7 +121,7 @@ colocar  na introdução<br>
 ## 2.2 Github 
  <a><p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O git é um sistema de controle de versão que permite que os desenvolvedores rastreiem, gerenciem e colaborem em projetos mantendo um histórico completo de todas as alterações feitas ao longo do tempo. Já o github, como o nome sugere, é construído sobre o git, um tipo de sistema de controle de versão, gratuito e de código aberto, o que significa que qualquer pessoa pode usá-lo para desenvolver nele com tela inicial e comandos conforme Figura 2 [(GUNTHALS, 2023)](#anexo).</p> <br>
  <a name="figura-2"></a>
-<p align="center">Figura 2. Tela inicial do repositorio e principais</p> 
+<p align="center">Figura 2. Tela inicial do repositorio e principais.</p> 
  <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20inicial%20e%20principais%20funcionalidades.png" width="80%"> 
  </p>
@@ -128,7 +129,7 @@ colocar  na introdução<br>
 
 <a> <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Para [Zagalsky *et al* (2015)](#anexo) atualmente o github é uma ferramenta tecnológica útil como plataforma de compartilhamento social baseado na web que utiliza o sistema de controle de versão distribuída. Isso facilita a colaboração, desenvolvimento de projetos e redação técnica entre os alunos em ambiente educacional compartilhado. O Quadro 1 está ilustrando os principais comandos da tela principal. </p> 
  <a name="quadro-1"></a>
-<p align="center">Quadro 1. Principais comandos da tela principal do repositorio</p> 
+<p align="center">Quadro 1. Principais comandos da tela principal do repositorio.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/principais%20comandos%20da%20tela%20principal.png" width="70%"> 
 </p>
@@ -146,7 +147,7 @@ colocar  na introdução<br>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O meio utilizado foi a plataforma googleforms disponível para o público em geral, na qual a pesquisa foi inserida e disseminada nas redes sociais para coleta de dados. Quatro perguntas fechadas, múltiplas escolhas e de opinião com o objetivo de abstrair a opinião de docentes, estudantes e egressos sobre uso dos repositórios digitais. Foram coletadas 210 respostas dos voluntários de ambos os sexos, com faixa etária a partir de 18 anos que estão em Instituições de Ensino ou tornaram-se egressos recentemente. A pesquisa foi realizada de 10/06/2023 e 15/08/2023 no formulário conforme ilustra a Figura 3. 
 </p>
  <a name="figura-3"></a>
-<p align="center">Figura 3. Tela do Formulário de pesquisa</p> 
+<p align="center">Figura 3. Tela do Formulário de pesquisa.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/figura%203.png" width="50%"> 
 </p>
@@ -189,33 +190,33 @@ colocar  na introdução<br>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalhoNesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
 
 ## 4.1 Resultados da Pesquisa de Campo
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A primeira questão sobre a faixa etária demonstra que 97,2% dos respondentes têm faixa etária entre 18 e 60 anos, conforme demonstra o Figura 4. </p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A primeira questão sobre a faixa etária demonstra que 97,2% dos respondentes têm faixa etária entre 18 e 60 anos, conforme ilustra a Figura 4. </p>
 <a name="figura-4"></a>
-<p align="center">Figura 4. Faixa etária dos respondentes</p> 
+<p align="center">Figura 4. Faixa etária dos respondentes.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/idade.png" width="70%"> 
 </p>
 <p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A segunda questão trata sobre atuação dos voluntários. 78,6% dos respondentes disseram ser estudantes, 15,7% são docentes e 5,7% são egressos/egressas conforme demonstra o Figura 5.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A segunda questão trata sobre atuação dos voluntários. 78,6% dos respondentes disseram ser estudantes, 15,7% são docentes e 5,7% são egressos/egressas conforme ilustra a Figura 5.</p>
 <a name="figura-5"></a>
-<p align="center">Figura 5. Tipo de atuação dos voluntários</p> 
+<p align="center">Figura 5. Tipo de atuação dos voluntários.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/funcao.png" width="70%">
 </p>
 <p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A terceira questão tratou da amplitude e população de outras Instituições de ensino públicas e particulares na região conforme demonstra o Figura 6. </p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A terceira questão tratou da amplitude e população de outras Instituições de ensino públicas e particulares na região conforme ilustra a Figura 6. </p>
 <a name="figura-6"></a>
-<p align="center">Figura 6. Atual ou última Instituição de Ensino</p> 
+<p align="center">Figura 6. Atual ou última Instituição de Ensino.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/faculdade.png" width="70%"> 
 </p>
 <p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quarta pergunta questionou se os respondentes conheciam ou usavam o repositório digital como o github. 84,7% dos respondentes disseram que nunca ouviram falar (49,5%) e (35,2%) nunca utilizaram, conforme demonstra o Figura 7.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quarta pergunta questionou se os respondentes conheciam ou usavam o repositório digital como o github. 84,7% dos respondentes disseram que nunca ouviram falar (49,5%) e (35,2%) nunca utilizaram, conforme ilustra a Figura 7.</p>
 <a name="figura-7"></a>
-<p align="center">Figura 7. Usou algum repositório digital como o github</p> 
+<p align="center">Figura 7. Usou algum repositório digital como o github.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/usou.png" width="70%"></p>
 <p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
@@ -223,7 +224,7 @@ colocar  na introdução<br>
 ## 4.2 Criação de um Template para Cursos de Gestão Utilizando o Github
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Figura 8 ilustra os comandos utilizados na criação do template para o repositório digital.</p> 
 <a name="figura-8"></a>
-<p align="center">Figura 8. Comandos Utilizados</p> 
+<p align="center">Figura 8. Comandos Utilizados.</p> 
 <p align="center">
 <img src="https://github.com/AndreLuizRibeiro/repositorio-digital-para-o-curso-de-GPI/blob/main/imagem/tela%20de%20comando.png" width="70%"> 
 </p>
@@ -237,7 +238,9 @@ colocar  na introdução<br>
 <p align="justify">Fonte: Elaborado pelo Autor (2023).</p> <br>
 
 # 5 CONSIDERAÇÕES FINAIS
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta é a parte final do trabalho, referindo-se às hipóteses discutidas anteriormente. A conclusão é uma resposta para a problemática do tema proposto na introdução, com base nos resultados que o(s) autor(es) avaliou e interpretou.</p> 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A pesquisa bibliográfica realizada na plataforma Scopus e Web of Science, analisando a obra de diversos autores, revela que o tema em questão está longe de alcançar uma conclusão definitiva. Os resultados obtidos a partir de uma pesquisa envolvendo 210 voluntários demonstram a relevância da divulgação de um repositório digital, especialmente em cursos que não pertencem ao eixo da tecnologia da informação. Além disso, os achados indicam que há um amplo espaço para educadores explorarem o potencial do GitHub em ambientes educacionais, levando em consideração fatores como o tamanho da turma, o tipo de curso e a adoção de uma abordagem ágil.</p>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta pesquisa contribui significativamente ao oferecer insights sobre como o GitHub está sendo utilizado em contextos educacionais para hospedar conteúdo e recursos, iniciando assim a construção de um modelo desenvolvido no GitHub. Conclui-se que, embora o GitHub seja frequentemente caracterizado como uma rede social para desenvolvedores, essa descrição é parcialmente precisa. De fato, cursos de Gestão e outras áreas distantes da tecnologia da informação podem aproveitar essa plataforma como uma ferramenta eficaz para colaborar em projetos, reunir pessoas com base em entregas de produtos, adotar tecnologias de suporte e atender às especificidades do contexto, tudo isso em consonância com uma metodologia ágil. Como direção futura para a pesquisa, planeja-se aumentar o tamanho da amostra e ajustar algumas questões do formulário de pesquisa, visando aprofundar ainda mais a compreensão deste tópico em evolução.</p> 
 
 # REFERÊNCIAS
 
