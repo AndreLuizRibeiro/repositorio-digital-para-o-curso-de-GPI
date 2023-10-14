@@ -187,7 +187,7 @@
 </p>
 
 # 4 RESULTADOS E DISCUSSÕES
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nessa seção você deverá demonstrar os resultados e as discussões geradas pelo trabalhoNesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesta fase será realizada uma análise crítica dos resultados obtidos, comparando com os esperados e os visualizados na Fundamentação Teórica.</p> 
 
 ## 4.1 Resultados da Pesquisa de Campo
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A primeira questão sobre a faixa etária demonstra que 97,2% dos respondentes têm faixa etária entre 18 e 60 anos, conforme ilustra a Figura 4. </p>
